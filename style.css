@@ -18,7 +18,7 @@
 body {
     width: auto;
     height: 100vh;
-    background-image: url(./imagens/rocket.jpg);
+    background-image: url(rocket.jpg);
     /*Foto de Matheus Bertelli*/
     background-size: 100% 400%;
     animation: backgroundTransition 45s ease-in-out infinite;
