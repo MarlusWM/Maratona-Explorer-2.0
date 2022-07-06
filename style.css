@@ -83,7 +83,7 @@ li {
     height: 60px;
     justify-content: center;
     margin-top: 16px;
-    background-color: var(--laranjaBlur);
+    background-color: #ff7402ae;
     border-radius: 6px;
 }
 
